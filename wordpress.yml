@@ -1,5 +1,4 @@
 version: '3'
-
 services:
     dbos:
         image: mysql:5.7
